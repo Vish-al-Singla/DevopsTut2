@@ -1,0 +1,27 @@
+00:00:00.520840 VirtualBox GUI VM Selector Window 6.1.6 r137129 win.amd64 (Apr  9 2020 19:01:29) release log
+00:00:00.520841 Log opened 2020-06-22T12:18:23.072430900Z
+00:00:00.520842 Build Type: release
+00:00:00.520845 OS Product: Windows 10
+00:00:00.520845 OS Release: 10.0.19041
+00:00:00.520846 OS Service Pack: 
+00:00:00.530321 DMI Product Name: TUF Gaming FX505GT_FX505GT
+00:00:00.533458 DMI Product Version: 1.0
+00:00:00.533468 Firmware type: UEFI
+00:00:00.533704 Secure Boot: VERR_PRIVILEGE_NOT_HELD
+00:00:00.533715 Host RAM: 8043MB (7.8GB) total, 1463MB available
+00:00:00.533717 Executable: C:\Program Files\Oracle\VirtualBox\VirtualBox.exe
+00:00:00.533718 Process ID: 22232
+00:00:00.533718 Package type: WINDOWS_64BITS_GENERIC
+00:00:00.533807 Qt version: 5.6.2
+00:00:00.551325 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:01.197757 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:15.084741 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:02:56.338587 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:07:47.200911 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:25:56.589980 GUI: UIMediumEnumerator: Medium with key={{358b4d4a-95c5-4f69-97f3-ed8039218f3c}} created
+00:25:56.703275 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:29:22.507088 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:29:22.511983 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:29:58.894375 GUI: UIMediumEnumerator: Medium-enumeration finished!
+03:14:53.663618 GUI: UIMediumEnumerator: Medium-enumeration finished!
+03:14:53.663886 Log rotated - Log started 2020-06-22T12:18:23.072430900Z

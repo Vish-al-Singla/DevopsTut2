@@ -1,1 +1,3 @@
-Hi I am Suryansh. I am co-collaborator on this project. 
+Hi I am Vishal Singla.
+I am in GNDEC.
+Suryansh is co-collaborator of this project.

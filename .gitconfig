@@ -1,8 +1,0 @@
-[core]
-	editor = \"C:\\Users\\singl\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\" --wait
-[user]
-	name = 'Vishal
-	email = 'singlavishal121@gmail.com'
-[filesystem "Oracle Corporation|14.0.1|987310788"]
-	timestampResolution = 6503 microseconds
-	minRacyThreshold = 0 nanoseconds
